@@ -4,7 +4,9 @@ This repository contains codes developed during my PhD at University of Groninge
 
 ## Surrogate Based Uncertainty Quantification using 3D U-Net Model
 
-A 3D U-Net ANN was trained using the data from single wind turbine simulations, and coupled with Wake-Superposition Model to make flow-field predictions over an array of wind turbines as shown below. More details can be found in - Uncertainty quantification analysis for simulation of wakes in wind-farms using a stochastic RANS solver, compared with a deep learning approach. _Computers & Fluids_. 2023.
+A 3D U-Net ANN was trained using the data from single wind turbine simulations, and coupled with Wake-Superposition Model to make flow-field predictions over an array of wind turbines as shown below. More details can be found in - 
+
+**Uncertainty quantification analysis for simulation of wakes in wind-farms using a stochastic RANS solver, compared with a deep learning approach. _Computers & Fluids_. 2023.**
 
 ![image](https://github.com/jigarparekh279/parallelwindfarms_3D_UNet/assets/40745770/07712143-e761-4082-b323-d0839abb3ebb)
 
