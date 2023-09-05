@@ -15,3 +15,5 @@ A 3D U-Net ANN was trained using the data from single wind turbine simulations, 
 ![image](https://github.com/jigarparekh279/parallelwindfarms_3D_UNet/assets/40745770/ad45822f-caba-4c50-89ef-91e07f3a356e)
 
 ![image](https://github.com/jigarparekh279/parallelwindfarms_3D_UNet/assets/40745770/63e18ccf-9ffd-4240-a582-e4edbb8b18b0)
+
+![image](https://github.com/jigarparekh279/parallelwindfarms_3D_UNet/assets/40745770/faee3526-272e-4659-bb8d-106bc59c756c)
